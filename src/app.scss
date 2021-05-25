@@ -1,6 +1,9 @@
 $font-family: 'Railway', sans-serif;
 $spacing: 20px;
 $blue: rgb(36, 36, 209);
+$darkblue: darkblue;
+$violet:#7F14D4;
+$persianblue: #3E14E9;
 $img1: 600px;
 $yellow: rgb(255, 230, 194);
 $margintop: 30px;
@@ -11,7 +14,9 @@ $margintop2: 10px;
     padding: 0;
     box-sizing: border-box;
 }
-
+h3, p, li, h1, b {
+    color: $violet;
+}
 body {
     font-family: $font-family;
 }
@@ -67,12 +72,9 @@ ul {
       margin: auto;
   }
 
-  img {
-      border: 1px solid black;
-  }
 
   .backgroundYellow {
-      background-color: $yellow;
+      background-color: $darkblue;
   }
 
   .img2 {

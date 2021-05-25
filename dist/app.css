@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+h3, p, li, h1, b {
+  color: #7F14D4;
+}
+
 body {
   font-family: "Railway", sans-serif;
 }
@@ -59,9 +63,8 @@ li {
   margin: auto;
 }
 
-
 .backgroundYellow {
-  background-color: #ffe6c2;
+  background-color: darkblue;
 }
 
 .img2 {
