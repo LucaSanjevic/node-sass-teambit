@@ -1,0 +1,204 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Railway", sans-serif;
+}
+
+.width1000 {
+  max-width: 1200px;
+  width: 100%;
+  margin: auto;
+}
+
+.img1 {
+  width: 600px;
+}
+
+.flex {
+  display: flex;
+}
+
+.spaceBetween {
+  justify-content: space-between;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  display: inline;
+  margin: 10px;
+}
+
+.img_piccola {
+  height: 20px;
+}
+
+.buttonFont {
+  font-size: 15px;
+}
+
+.width50 {
+  width: 200px;
+}
+
+.spaceAround {
+  justify-content: space-evenly;
+}
+
+.textCenter {
+  text-align: center;
+}
+
+.marginAuto {
+  margin: auto;
+}
+
+
+.backgroundYellow {
+  background-color: #ffe6c2;
+}
+
+.img2 {
+  max-width: 300px;
+  width: 100%;
+}
+
+.width100 {
+  width: 250px;
+}
+
+.fontSize {
+  font-size: 13px;
+}
+
+.width20 {
+  width: 70px;
+}
+
+.width_50 {
+  width: 500px;
+}
+
+.width_40 {
+  width: 300px;
+}
+
+.blue {
+  background-color: #2424d1;
+  color: white;
+  border-radius: 3px;
+  height: 30px;
+}
+
+.floatRight {
+  float: right;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.flexEnd {
+  justify-content: flex-end;
+}
+
+.inline {
+  display: inline-block;
+}
+
+.marginLeft {
+  margin-left: 280px;
+}
+
+.paragrafoWidth {
+  width: 600px;
+}
+
+.backgroundWhite {
+  background: white;
+}
+
+.marginBottom {
+  margin-bottom: 30px;
+}
+
+.width_20 {
+  width: 20%;
+}
+
+.width_25 {
+  width: 30%;
+}
+
+.width_15 {
+  width: 15%;
+}
+
+.flex2 {
+  display: flex;
+  flex-direction: column;
+}
+
+.padding {
+  padding: 5px;
+}
+
+.lineHeight {
+  vertical-align: middle;
+}
+
+.border-blue {
+  border-color: #2424d1;
+}
+
+.blue-color {
+  color: #2424d1;
+}
+
+.marginTop {
+  margin-top: 30px;
+}
+
+.margintop2 {
+  margin-top: 10px;
+}
+
+.width50 {
+  width: 150px;
+}
+
+.height103 {
+  height: 103px;
+}
+
+.margintop3 {
+  margin-top: 70px;
+}
+
+.paddingBottom {
+  padding-bottom: 60px;
+}
+
+.borderRadius {
+  border-radius: 8px;
+}
+
+.width80 {
+  width: 80%;
+}
+
+.logoSmall {
+  height: 50px;
+}
+
+.marginLeft2 {
+  margin-left: 10px;
+}
